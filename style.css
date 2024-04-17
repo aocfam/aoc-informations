@@ -172,6 +172,8 @@ a
 a .logo
 {
     display:block;
+   width: 150px;
+      
     
 }
 .numero
@@ -282,6 +284,7 @@ a .logo
         align-items: center;
         height: 600px;
         padding-top: 30px;
+       color:white;
     }
     a .logo
     {
