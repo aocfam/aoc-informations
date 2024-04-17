@@ -4,7 +4,7 @@ body
     margin:0;
     padding: 0;
     list-style: none;
-    background-color: black;
+    background-color: white;
     
     
 }
@@ -171,7 +171,7 @@ a
 }
 a .logo
 {
-    display:none;
+    display:block;
     
 }
 .numero
@@ -247,6 +247,7 @@ a .logo
     {
         font-size: xx-large;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       color:orange;
     }
     .text
     {
@@ -254,6 +255,7 @@ a .logo
         text-align: left;
         margin: 0px;
         order: 1;
+        color:black;
     }
     footer .numero
     {
