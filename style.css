@@ -294,7 +294,12 @@ a .logo
         align-items: center;
         height: 600px;
         padding-top: 30px;
+       
     }
+   .liens .text
+   {
+      color:white;
+   }
     a .logo
     {
         width: 150px;
