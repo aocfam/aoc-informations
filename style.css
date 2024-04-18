@@ -197,6 +197,10 @@ a
     padding-right: 30px;       
     
 }
+.insta
+{
+   width:50px;
+}
 
 @media (max-width:900px){
    body
